@@ -17,7 +17,7 @@ Este proyecto fue desarrollado como parte del curso de Tableau dentro de la carr
 
 🔗 [Ver el dashboard en Tableau Public](https://public.tableau.com/views/EntregaFinal-AgueroGarcia/Portada)
 
-![Vista del Dashboard](dashboard-tableau.png)
+![Vista del Dashboard](./Dashboard%20-%20Proyecto%20Final.png)
 
 ## Resultado
 
