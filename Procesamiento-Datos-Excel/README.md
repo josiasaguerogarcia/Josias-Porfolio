@@ -20,6 +20,6 @@ Este proyecto consistió en procesar un dataset real con información de casos d
 
 ## Descargar archivo Excel
 
-📂 [Descargar Excel del proyecto](/PF%20-%20Procesamiento%20Datos%20Excel.xlsx)
+📂 [Descargar Excel del proyecto](./PF%20-%20Procesamiento%20Datos%20Excel.xlsx)
 ## Resultado
 Se logró transformar una hoja de datos crudos en un informe visualmente entendible, con indicadores clave como distribución por edad, sexo, provincia y clasificación del caso.
