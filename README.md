@@ -9,7 +9,7 @@ Bienvenido a mi portafolio profesional. Aquí recopilo los proyectos realizados 
 > Proyectos desarrollados en la carrera de **Data Analytics (Coderhouse)**
 
 - [`Procesamiento de datos en Excel`](./Data%20Analitycs/Procesamiento-Datos-Excel/README.md)  
-- [`Dashboard de ventas con Power BI (Adidas)`](./Data%20Analtycs/PowerBI-Adidas/README.md)  
+- [`Dashboard de ventas con Power BI (Adidas)`](./Data%20Analitycs/PowerBI-Adidas/README.md)  
 - [`Visualización de ventas con Tableau`](./Data%20Analtycs/Tableau/.README.md)
 
 ---
