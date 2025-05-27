@@ -30,7 +30,7 @@ Este proyecto fue desarrollado como parte del curso **Data Science II: Machine L
 
 📄 [Ver presentación del proyecto](./Informe%20-%20Alzheimer.pptx)
 
-📊 [Ver código y dataset](./Proyecto%20Final%20DS2%20-%20Alzehimer)
+📊 [Ver código y dataset](./Data%20Scientist/DS2-MachineLearning/Proyecto%20Final%20DS2%20-%20Alzehimer.ipynb
 
 ## Conclusión
 
