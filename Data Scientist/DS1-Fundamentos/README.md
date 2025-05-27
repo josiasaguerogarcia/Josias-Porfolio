@@ -31,8 +31,7 @@ Este proyecto fue desarrollado durante el curso **Data Science I: Fundamentos pa
 📄 [Ver informe completo en PDF](./Informe%20-%20Prestamos.pdf)
 
 
-📊 [Ver código en Descargando](./Notebook%20Proyecto%20Final%20DS1)
-
+📊 [Ver código eN](./Data%20Scientist/DS1-Fundamentos/Notebook%20Proyecto%20Final%20DS1.ipynb)
 ## Conclusión
 
 Los modelos de árboles superaron a la regresión logística, pero presentan riesgo de sobreajuste. Se recomienda validación cruzada y exploración de modelos adicionales.
