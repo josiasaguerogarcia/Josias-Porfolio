@@ -10,8 +10,7 @@ Bienvenido a mi portafolio profesional. Aquí recopilo los proyectos realizados 
 
 - [`Procesamiento de datos en Excel`](./Data%20Analitycs/Procesamiento-Datos-Excel/README.md)  
 - [`Dashboard de ventas con Power BI (Adidas)`](./Data%20Analitycs/PowerBI-Adidas/README.md)  
-- [`Visualización de ventas con Tableau`](./Data%20Analtycs/Tableau/.README.md)
-
+- [`Visualización de ventas con Tableau`](./Data%20Analitycs/Tableau/README.md)
 ---
 
 ## 🧠 Data Science
