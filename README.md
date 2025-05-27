@@ -1,30 +1,28 @@
 # 📚 Portafolio de Josías Agüero García
 
-Bienvenido a mi portafolio profesional. Este repositorio recopila proyectos desarrollados a lo largo de mi formación como **Data Analyst** y **Data Scientist Jr.**, aplicando herramientas como **SQL, Power BI, Tableau, Python y Machine Learning**.
-
-Mi enfoque está en resolver problemas reales mediante el análisis exploratorio, la visualización clara de datos y la construcción de modelos predictivos.
+Bienvenido a mi portafolio profesional. Aquí recopilo los proyectos realizados durante mi formación como **Data Analyst** y **Data Scientist Jr.**, aplicando herramientas como SQL, Power BI, Tableau, Python y Machine Learning.
 
 ---
 
 ## 📊 Data Analytics
 
-> Proyectos desarrollados durante la carrera de Data Analytics (Coderhouse), enfocados en análisis y visualización de datos.
+> Proyectos desarrollados en la carrera de **Data Analytics (Coderhouse)**
 
-- [`Excel - Análisis COVID-19`](./DataAnalytics/Excel-Covid)
-- [`Power BI - Facturación Adidas`](./DataAnalytics/PowerBI-Adidas)
-- [`Tableau - Concesionarios de autos`](./DataAnalytics/Tableau)
+- [`Procesamiento de datos en Excel`](./Data%20Analtycs/Procesamiento-Datos-Excel/README.md)  
+- [`Dashboard de ventas con Power BI (Adidas)`](./Data%20Analtycs/PowerBI-Adidas/README.md)  
+- [`Visualización de ventas con Tableau`](./Data%20Analtycs/Tableau/README.md)
 
 ---
 
 ## 🧠 Data Science
 
-> Proyectos realizados en la carrera de Data Science, organizados por etapa de formación.
+> Proyectos realizados durante la carrera de **Data Science**
 
 ### 📘 DS1 – Fundamentos
-- [`Análisis de Préstamos y Default`](./DataScience/DS1-Fundamentos/Prestamos-Default)
+- [`Análisis de préstamos y default`](./Data%20Scientist/DS1-Fundamentos/README.md)
 
 ### 📗 DS2 – Machine Learning
-- [`Clasificación de Alzheimer con ML`](./DataScience/DS2-MachineLearning/Alzheimer-Classifier)
+- [`Clasificación de Alzheimer con modelos de ML`](./Data%20Scientist/DS2-MachineLearning/README.md)
 
 ### 📕 DS3 – NLP & Deep Learning
 _(En curso)_
@@ -33,13 +31,14 @@ _(En curso)_
 
 ## 🛠️ Tecnologías
 
-- Python, pandas, NumPy, matplotlib, seaborn
-- scikit-learn, Power BI, Tableau
-- SQL Server, Git, Google Colab
+- Python, pandas, NumPy, matplotlib, seaborn  
+- scikit-learn, Power BI, Tableau  
+- SQL Server, Google Colab, GitHub
 
 ---
 
 ## 📫 Contacto
 
-- **Email:** josiasaguero19@gmail.com 
+- **Email:** josiasaguero19@gmail.com  
 - **LinkedIn:** [linkedin.com/in/josias-aguero-garcia](https://www.linkedin.com/in/josias-aguero-garcia)
+- **GitHub:** [github.com/josiasaguerogarcia](https://github.com/josiasaguerogarcia)
